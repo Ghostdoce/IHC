@@ -4,6 +4,7 @@
 Docente: Andrey Antonio de Oliveira Rodrigues
 
 Equipe:
+
 * A1: Iago Vinicius Farias do Amaral-22450579
 * A2: Jenner Lucas dos Santos Carneiro-22351505
 * A3: Jesus Bernardo Lima de Souza-22451276
