@@ -3,10 +3,12 @@
 Curso: Engenharia de Software
 
 Integrantes: 
-Jesus Bernardo.
-Marcos Gabriel.
-Lucas Castro.
-Iago.
+Jesus Bernardo Lima de Souza.
+Marcos Gabriel Liborio Pontes.
+Lucas Castro dos Anjos.
+Iago Vinícius Farias do Amaral.
+Jenner Lucas dos Santos Carneiro.
+
 
 Docente: 
 Andrey Antonio de Oliveira Rodrigues
