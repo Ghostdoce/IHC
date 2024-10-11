@@ -3,7 +3,7 @@
 
 Docente: Andrey Antonio de Oliveira Rodrigues
 
-Equipe:
+**Equipe:**
 
 * A1: Iago Vinicius Farias do Amaral-22450579
 * A2: Jenner Lucas dos Santos Carneiro-22351505
@@ -11,7 +11,7 @@ Equipe:
 * A4: Lucas Castro dos Anjos-22402227
 * A5: Marcos Gabriel Liborio Pontes-22450923
 
-Tarefas:
+**Tarefas:**
 
 * T1: Formatação do escopo do relatorio no github
 * T2: Geração dos objetivos(documento e sistema)
