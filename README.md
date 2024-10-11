@@ -2,16 +2,14 @@
 
 Curso: Engenharia de Software
 
+Docente: Andrey Antonio de Oliveira Rodrigues
+
 Integrantes: 
-Jesus Bernardo Lima de Souza.
-Marcos Gabriel Liborio Pontes.
-Lucas Castro dos Anjos.
-Iago Vinícius Farias do Amaral.
-Jenner Lucas dos Santos Carneiro.
-
-
-Docente: 
-Andrey Antonio de Oliveira Rodrigues
+* Jesus Bernardo Lima de Souza.
+* Marcos Gabriel Liborio Pontes.
+* Lucas Castro dos Anjos.
+* Iago Vinícius Farias do Amaral.
+* Jenner Lucas dos Santos Carneiro.
 
 Sistema:
 Twitch ( site )
