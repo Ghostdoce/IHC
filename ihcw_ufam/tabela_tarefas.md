@@ -24,6 +24,7 @@ Tarefas:
 * T9: Avaliação de MAC
 * T10: Edição de etiquetagem
 * T11: Conclusão dos resultados da inspeção
+  ### TABELA 1 - Tabela de tarefas/atividades 
 
 |            |  OUTUBRO  |           |            |           |           |            |            |         |         |       |
 |------------|-----------|-----------|------------|-----------|-----------|------------|------------|---------|---------|-------|
