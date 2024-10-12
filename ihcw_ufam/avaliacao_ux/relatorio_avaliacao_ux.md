@@ -12,7 +12,7 @@ Media entre o momento em que o usuário navega pela primeira vez até a página 
 ### Time to First Byte (TTFB):
 O tempo do primeiro byte é otimo num valor de 0,2s.
 
-# Desepenho
+# Desempenho
 ![image](https://github.com/user-attachments/assets/e951d683-de9e-429b-a197-e7f69619bbc3)
 
 # Acessibilidade
