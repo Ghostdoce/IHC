@@ -15,6 +15,10 @@ O tempo do primeiro byte é otimo num valor de 0,2s.
 # Desempenho
 ![image](https://github.com/user-attachments/assets/e951d683-de9e-429b-a197-e7f69619bbc3)
 
+
+O nivel de desempenho do Site Twitch possui uma media de de 37 isso se da por diversos problemas encontrado, como, a execução do JavaScript, trabalhos de theards principais, exibição de conteudo, JavaScript não usado, DOM de tamanho grandes, qualidade de imagem, tamanho de imagem, não uma tag < meta name="viewport"> com width ou initial-scale definiada, payloads, JavaScript legado, um cache mais longo e ificiente.
+
+
 # Acessibilidade
 ![image](https://github.com/user-attachments/assets/bab84c17-bb4d-4a68-8156-a9b7002eabd6)
 
