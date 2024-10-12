@@ -26,7 +26,7 @@ Docente: Andrey Antonio de Oliveira Rodrigues
 * T11: Conclusão dos resultados da inspeção
   ### TABELA 1 - Tabela de tarefas/atividades 
 
-|            |  OUTUBRO  |           |            |           |           |            |            |         |         |       |
+|  OUTUBRO   |    seg    |   ter     |   qua      |  qui      |   sex     |  sáb       |  dom       | seg     | ter     |  qua  |
 |------------|-----------|-----------|------------|-----------|-----------|------------|------------|---------|---------|-------|
 |TAREFA X DIA|     07    |08         |    09      |    09     |    11     |     12     |    13      |  14     |   15    |  16   |
 |  T1        |           |           |            |           |           |            |            |         |         |       |
