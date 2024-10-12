@@ -1,19 +1,20 @@
 ### Tarefas do  usuário 
 Com base no perfil dos usuários-alvo, foram definidas algumas tarefas a serem alcançados pelo usuário: 
-1. cadrastro usuario.
 
-2. escolher o catalago de interesse.
+1. Realizar login ou cadastro na Twitch.
 
-3. remover cartegoria.
+2. Escolher catálogo de interesse.
 
-4. escolher um canal.
+3. Remover categoria de vídeo.
 
-5. iniciar uma transmição.
+4. Escolher um canal de streamer para assistir.
 
-6. função do chat.
+5. iniciar uma transmissão.
 
-7. configuração do chat.
+6. Verificar as configurações do chat.
 
-8. vincular com outros serviços.
+7. Vincular conta com outros serviços.
 
-9. encerrar conta.
+8. Habilitar ADF (Autenticação de dois fatores).
+
+9. Desabilitar conta da Twitch.
