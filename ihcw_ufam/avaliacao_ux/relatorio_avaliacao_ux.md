@@ -24,5 +24,7 @@ O nivel de desempenho do Site Twitch possui uma media de de 37 isso se da por di
 ![image](https://github.com/user-attachments/assets/bab84c17-bb4d-4a68-8156-a9b7002eabd6)
 
 
+Apresenta uma boa acessibilidade, longe de qualquer margem de erro, so algumas melhorias como exeperiencia do site com o usuario com  site.
+
 
 
