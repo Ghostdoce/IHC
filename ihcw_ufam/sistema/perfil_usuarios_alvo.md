@@ -1,5 +1,5 @@
 # Perfil dos usuários-alvo
- A Twitch atrai uma ampla variedade de usuários, e seu público-alvo pode ser dividido em faixas etárias e perfis de uso.
+ A Twitch atrai diversos usuários e seu público-alvo pode ser dividido em faixas etárias e perfis de uso.
  
 1. Adolescentes (15-21 anos)
 - Interesse : Jogos e entretenimento, geralmente focados em eSports, streamers de jogos populares.
