@@ -6,7 +6,7 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 |É necessário prover ajuda e documentação embora seja melhor um sistema que possa ser usado sem documentação.                       |                      |            |               |
+|  1 |É necessário prover ajuda e documentação embora seja melhor um sistema que possa ser usado sem documentação.                       |       H10               |     2       |       1        |
 |  2 |                       |                      |            |               |
 |  3 |                       |                      |            |               |
 |  4 |                       |                      |            |               |
