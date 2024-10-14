@@ -33,10 +33,10 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 |                       |                      |            |               |
-|  2 |                       |                      |            |               |
-|  3 |                       |                      |            |               |
-|  4 |                       |                      |            |               |
+|  1 | Na parte do cadastro o sistema não apresenta os itens obrigatorios que o usuario deve preencher|            H5     |          2  |        1       |
+|  2 |O sistema possui uma interface com muita poluição visual                       |          H8            |     3       |       1        |
+|  3 | O sistema usa umm icone que se diferencia do que é commmunmente ultilizado                    |         H2             |      2      |    1           |
+
 
 ### Inspetor : A5
 
