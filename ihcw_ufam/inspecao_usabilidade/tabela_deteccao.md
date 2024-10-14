@@ -42,7 +42,7 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema | Heurísticas Violadas | Severidade | Carga Horária |
 |----|-----------------------|----------------------|------------|---------------|
-|  1 |                       |                      |            |               |
-|  2 |                       |                      |            |               |
-|  3 |                       |                      |            |               |
-|  4 |                       |                      |            |               |
+|  1 | Os site ele disponibiliza ajuda e auxili, no entanto, não resolver maioria dos problemas do usuario, e outras , redirecionam para outra pagina                      |            H10          |       2     |      30 minutos         |
+|  2 | Ao concluir o cadastro do site, o usuario é direcionado ao menu principal, aonde se depara com muitas informações ao mesmo teempo                      |      H1                |     2       |     30 minutos           |
+|  3 | O site na aba de busca le salva o ultimo canal que vc assitiu                       |          H6            |  0          |     10 minutos          |
+|  4 | Na aba de busca de canal, é mostrado diversos tipo de conteudo                        |  H3                    |  0          |       1 hora        |
