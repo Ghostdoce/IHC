@@ -9,7 +9,6 @@ Integrantes:
 * Marcos Gabriel Liborio Pontes.
 * Lucas Castro dos Anjos.
 * Iago Vinícius Farias do Amaral.
-* Jenner Lucas dos Santos Carneiro.
 
 Sistema:
 Twitch ( site )
