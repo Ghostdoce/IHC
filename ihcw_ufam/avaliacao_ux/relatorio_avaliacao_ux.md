@@ -1,6 +1,6 @@
 # Primeira Etapa
 # Planejamento 
-na primeira etapa utilizamos a extenção lighhouse para avalair a qualidade o site Twitch, na segunda etapa fizemos os com ser Experience Questionnaire (UEQ) 
+Na primeira etapa utilizamos a extenção lighhouse para avalair a qualidade o site Twitch, na segunda etapa fizemos os com ser Experience Questionnaire (UEQ) 
 # Resultados lighthouse
 ![image](https://github.com/user-attachments/assets/ff60707d-0bcc-48e6-90b7-1edfc509aefe)
 ![image](https://github.com/user-attachments/assets/1e22c18c-8509-425a-9727-131ce05f2855)
