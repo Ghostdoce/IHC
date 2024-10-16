@@ -130,3 +130,5 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | Vai de outro jeito.    |                |
 |   Não, obrigado.       |        2        |
 |  Socorro!              |                |
+
+<img src="Etiqueta1.png" alt= "exemplo de imagem" width="300">
