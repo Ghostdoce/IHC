@@ -6,3 +6,8 @@ Além disso, a inconsistente interface, ainda que relativamente uniforme, revela
 
 Por último, a falta de dicas visuais e de tutoriais representa uma oportunidade de ouro para otimizar a experiência do usuário. Reconhecer para facilitar, ao invés de memorizar, as funcionalidades pode trazer um grande diferencial na curva de aprendizado dos novos usuários. Fornecer orientações claras não só se coaduna com uma melhor usabilidade, como ainda expressa um compromisso com a comunidade, criando um ambiente mais acolhedor. 
 De modo geral, ao enfrentar tais questões, é possível que a Twitch possa não apenas aprimorar a experiência de seus usuários, mas também fortalecer o relacionamento com seus fãs, gerando um espaço mais disponível e cativante. 
+
+## Reflexão Indivdual - Inspetor 5
+Com a analise do site Twitch, é descrito com diversos problemas de usuabilidade a qual prejudica significativamente, os principais que causaram frustução foram as configurações de inicialização de transmição e a verificação com outros serviços, com o decorrer do projeto, forma analisado outros topicos(as atividades), os particiapantes, estudamos as suas dificuldades, e com as descrições dos teste realizados, o site, ele possui certas incosistência, para um usuario que predente a usar, possivelmente encontrar dificuldades.
+
+Para finalizar, seria mais intuitivo o proprio site disponibilizase dicas e tutorias para que usuarios novos não se frustem, e criar interfaces mais simples, facilitanto para os que operam na nela, e para os novatos
