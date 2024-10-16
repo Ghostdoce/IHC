@@ -12,4 +12,19 @@ https://github.com/Ghostdoce/IHC/blob/main/ihcw_ufam/inspecao_usabilidade/tabela
 
 ## Discriminação 
 O avaliador do sistema com o grupo teve uma reunião de discussão. Com base nos resultados da avaliação do Twitch Site, é claro que há problemas reais de usabilidade do software. Houve também um consenso geral sobre o quão sérias as questões levantadas são – “Não há falsos positivos aqui”, como um avaliador colocou. Alguns dos problemas destacados pelos avaliadores incluem:
+https://github.com/Ghostdoce/IHC/blob/main/ihcw_ufam/inspecao_usabilidade/tabela_discriminacao.md
+
+Em termos de consistência, a Twitch tem uma interface muito padronizada, mas algumas funções são diferentes, o que pode ser confuso para novos usuários. Mais dicas visuais e tutoriais de uso seriam um investimento inteligente para simplificar a navegação no aplicativo. As pessoas também acham que têm pouca escolha quando se trata de notificações, embora os criadores de stream tenham controle total sobre suas bases de fãs. Novamente, uma combinação de ajuda e suporte da documentação pode ser útil, mas nada substitui a lógica óbvia quando se trata do uso do sistema. O registro não leva em conta itens necessários e apresenta muitas informações de uma maneira desorganizada. Finalmente, os usuários não são familiarizados com os ícones utilizados.
+
+## Consolidação
+Na fase de discussão, a equipe levantou os principais problemas da plataforma de usabilidade. Isso incluiu a inconsistência da interface, que, embora se adapte bem ao design de streamers, ainda gera confusão nos novos usuários, Tutoriais e dicas visuais não existentes, acredite que os próprios streamers são impotentes no controle das configurações de notificação. A equipe também observou que a necessidade de suporte e documentação é muito alta, e a organização de outras informações na tela é malfeita. Finalmente, a equipe apontou que a incapacidade de usar ícones reconhecíveis era um grande problema de usabilidade. Como tal, a equipe concordou que a resolução desses problemas ajudaria muito a melhorar a experiência desta plataforma.
+
+| Heurísticas Violadas                        | Quantidade |
+|---------------------------------------------|------------|
+| Visibilidade do status do sistema           | 3          |
+| Correspondência entre o sistema e o mundo   | 2          |
+| Controle e liberdade do usuário              | 4          |
+| Consistência e padrões                       | 5          |
+| Prevenção de erros                           | 2          |
+| Ajuda e documentação                         | 3          |
 
