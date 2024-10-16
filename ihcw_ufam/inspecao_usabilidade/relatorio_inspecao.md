@@ -24,15 +24,21 @@ Na fase de discussão, a equipe levantou os principais problemas da plataforma d
 
 | Heurísticas Violadas                        | Quantidade |
 |---------------------------------------------|------------|
-|   H1       | 3          |
-|        H4   | 2          |
-|           H6    | 4          |
-|                  H2   | 5          |
-|                      H10     | 2          |
-|                            H10 | 3          |
-|                            H10 | 3          |
-|                            H5 | 3          |
-|                            H5 | 3          |
-|                            H3 | 3          |
-|                            H3 | 3          |
+| Manter os usuários informados sobre o que está acontecendo  (H1)       | 1          |
+| O sistema deve utilizar a linguagem do usuário e apresentar as informações de forma lógica e natural       (H2)   | 1          |
+| Prover claras saídas de emergência para sair do estado indesejado sem ter que percorrer um extenso diálogo          (H3)    | 2          |
+| Os usuários não precisam adivinhar que diferentes palavras, situações ou ações possuem o mesmo significado                     (H4)     | 1          |
+| É melhor que o sistema possua um design cuidadoso para prevenir o erroantes dele acontecer                           (H5) | 2          |
+| O sistema deve tornar objetos, ações e opções visíveis. O usuário não deveter que lembrar informação de uma para outra parte do diálogo. Instruçõespara uso do sistema devem estar visíveis e facilmente recuperáveis quandonecessário (H6) | 1          |
+| É necessário prover ajuda e documentação embora seja melhor um sistemaque possa ser usado sem documentação                            (H10) | 3          |
+
+
+| Severidade           | Quantidade |
+|----------------------|------------|
+| Cosmetico              | 2          |
+| Pequeno                | 4          |
+| Grande             | 3          |
+| Catastrofico                | 5          |
+
+
  
