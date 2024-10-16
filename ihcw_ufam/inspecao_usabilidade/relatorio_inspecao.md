@@ -37,7 +37,7 @@ Na fase de discussão, a equipe levantou os principais problemas da plataforma d
 |----------------------|------------|
 | Cosmetico              | 2          |
 | Pequeno                | 6          |
-| Grande             | 3          |
+| Grande             | 4          |
 | Catastrofico                | 5          |
 
 
