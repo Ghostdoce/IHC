@@ -1,25 +1,33 @@
-Relatório de Comunicabilidade.
+# Relatório de Comunicabilidade.
 
 
-Introdução 
+## 1 Introdução 
 
 A necessidade de interação com computadores está cada vez mais presente em nossa vida. Não importam os grandes recursos gastos em tecnologia sem que a satisfação do usuário seja alcançada. Desta forma, usabilidade atua para ressaltar a importância de se pensar nas pessoas que estão do outro lado do monitor e na reação das mesmas diante da utilização dos sistemas. Uma das formas de se tentar garantir a usabilidade de um produto é através da realização de testes de usabilidade ao longo do processo de desenvolvimento.
 
 
-Caracterização da TWITCH
+## 2 Caracterização da TWITCH
 
 A Twitch é um serviço de streaming de vídeos ao-vivo que se concentra principalmente em transmissões de vídeo game e transmissões de competições de e-sports(esportes eletrônicos).Tendo como principais usuários :
-Adolescentes (15-21 anos)
-Interesse : Jogos e entretenimento, geralmente focados em e-sports, Streamers de jogos populares.
-Função : Espectadores ativos que seguem seus Streamers favoritos, interagem com chat ao vivo.
-Comportamento : Interação forte com a comunidade, busca por entretenimento rápido e engajamento em torneios ou eventos de jogos.
-jovens Adultos (22-30 anos)
-Interesse : Jogos, e-sports, música, podcasts, estilo de vida (vlogs e streaming IRL), arte digital e conteúdo criativo.
-Função : Streamers (criam conteúdo) e espectadores. Muitos nessa faixa iniciam a carreira como criadores de conteúdo ou consomem conteúdo em busca de entretenimento ou aprendizado.
-Comportamento : Participam de forma ativa no chat, doam para seus Streamers favoritos, interagem com a comunidade e estão presentes em eventos ao vivo da Twitch.
+
+**Adolescentes (15-21 anos)**
+
+Interesse : Jogos e entretenimento, geralmente focados em e-sports, Streamers de jogos populares.
+
+Função : Espectadores ativos que seguem seus Streamers favoritos, interagem com chat ao vivo.
+
+Comportamento : Interação forte com a comunidade, busca por entretenimento rápido e engajamento em torneios ou eventos de jogos.
+
+**jovens Adultos (22-30 anos)**
+
+Interesse : Jogos, e-sports, música, podcasts, estilo de vida (vlogs e streaming IRL), arte digital e conteúdo criativo.
+
+Função : Streamers (criam conteúdo) e espectadores. Muitos nessa faixa iniciam a carreira como criadores de conteúdo ou consomem conteúdo em busca de entretenimento ou aprendizado.
+
+Comportamento : Participam de forma ativa no chat, doam para seus Streamers favoritos, interagem com a comunidade e estão presentes em eventos ao vivo da Twitch.
 
 
-Planejamento do teste de Usabilidade
+## 3 Planejamento do teste de Usabilidade
 
 Com a finalidade de validar as funcionalidades disponíveis no aplicativo antes de ser
 lançado no mercado e sua aceitação por parte dos usuários finais, realiza-se um teste de usabilidade. 
@@ -35,6 +43,8 @@ Com base no perfil dos usuários-alvo, foram definidas algumas tarefas a serem a
 8.Habilitar ADF (Autenticação de dois fatores).
 9.Desabilitar conta da Twitch.
 
-Execução do Teste de Usabilidade
+## 4 Execução do Teste de Usabilidade
 	
 O teste foi realizado com os observadores explicando para cada usuário o procedimento a ser seguido, solicitando que realiza-se as tarefas propostas pelo observador  e que avisa-se quando concluir a  atividade. Para realizar a avaliação utilizamos o método Think Aloud (pensar em voz alta) que permite que o usuário expresse sua dificuldade e sua duvida em relação a tarefa proposta. Durante o tempo em que o usuário realiza as tarefas os observadores anotavam os comentários, duvidas e erros do usuário. Os teste foram realizados sem nenhuma ajuda dos Observados sobre como realizar as tarefas. Após finalizar foi aplicado o questionário UEQ para avalizar a UX da Twitch. 
+
+## 5 Análise dos resultados
