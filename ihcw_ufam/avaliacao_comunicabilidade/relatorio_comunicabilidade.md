@@ -40,7 +40,7 @@ O teste foi realizado por quatro usuários que realizaram a avaliação do siste
 ## Resultado
 Os testes foram realizados e etiquetados de acordo com a experiência de cada usuário.
 
-## Tabelas de atividades
+### Tabelas de atividades
 | Tarefa 1    | Realizar login ou cadastro na Twitch.| 
 |-------------|---------------|
 | **Participante**| **Resultado**     |
