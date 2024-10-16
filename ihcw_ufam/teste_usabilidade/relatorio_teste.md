@@ -12,19 +12,19 @@ A Twitch é um serviço de streaming de vídeos ao-vivo que se concentra princip
 
 **Adolescentes (15-21 anos)**
 
-Interesse : Jogos e entretenimento, geralmente focados em e-sports, Streamers de jogos populares.
+- Interesse : Jogos e entretenimento, geralmente focados em e-sports, Streamers de jogos populares.
 
-Função : Espectadores ativos que seguem seus Streamers favoritos, interagem com chat ao vivo.
+- Função : Espectadores ativos que seguem seus Streamers favoritos, interagem com chat ao vivo.
 
-Comportamento : Interação forte com a comunidade, busca por entretenimento rápido e engajamento em torneios ou eventos de jogos.
+- Comportamento : Interação forte com a comunidade, busca por entretenimento rápido e engajamento em torneios ou eventos de jogos.
 
 **jovens Adultos (22-30 anos)**
 
-Interesse : Jogos, e-sports, música, podcasts, estilo de vida (vlogs e streaming IRL), arte digital e conteúdo criativo.
+- Interesse : Jogos, e-sports, música, podcasts, estilo de vida (vlogs e streaming IRL), arte digital e conteúdo criativo.
 
-Função : Streamers (criam conteúdo) e espectadores. Muitos nessa faixa iniciam a carreira como criadores de conteúdo ou consomem conteúdo em busca de entretenimento ou aprendizado.
+- Função : Streamers (criam conteúdo) e espectadores. Muitos nessa faixa iniciam a carreira como criadores de conteúdo ou consomem conteúdo em busca de entretenimento ou aprendizado.
 
-Comportamento : Participam de forma ativa no chat, doam para seus Streamers favoritos, interagem com a comunidade e estão presentes em eventos ao vivo da Twitch.
+- Comportamento : Participam de forma ativa no chat, doam para seus Streamers favoritos, interagem com a comunidade e estão presentes em eventos ao vivo da Twitch.
 
 
 ## 3 Planejamento do teste de Usabilidade
