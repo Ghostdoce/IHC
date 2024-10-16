@@ -24,9 +24,9 @@ Descrição: Cada inspetor realiza de forma isolada essa etapa, que envolve iden
 
 | ID | Descrição do problema        | Heurísticas Violadas | Severidade | Carga Horária |
 |----|-----------------------       |----------------------|------------|---------------|
-|  1 |Embora os streamers tenham controle sobre suas comunidades, os usuários podemsentir que têm pouca liberdadeem certos aspectos, com o gerenciamento de suas própriasconfigurações de notificação.| H3  |          3 |           1    |           
+|  1 |Embora os streamers tenham controle sobre suas comunidades, os usuários podemsentir que têm pouca liberdade em certos aspectos, com o gerenciamento de suas próprias configurações de notificação.| H3  |          3 |           1    |           
 |  2 |Consistência e Padrões: Embora a Twitch tenha uma interface relativamente consistente, algumas funcionalidades podem variar entre diferentes áreas da plataforma, levando a confusões para novos usuários.                             |     H4                 |       3     |        1       |
-| 3 |Reconhecimento em vez de Recordação: A Twitch poderia oferecer mais dicas visuais oututoriais para ajudar novos usuários a entenderem todas as funcionalidades, em vez de exigirque eles se lembrem de com o navegar.                  2            |      H6                |         2   |          1     |
+| 3 |Reconhecimento em vez de Recordação: A Twitch poderia oferecer mais dicas visuais ou tutoriais para ajudar novos usuários a entenderem todas as funcionalidades, em vez de exigir que eles se lembrem de com o navegar.                  2            |      H6                |         2   |          1     |
                                                           
 
 ### Inspetor : A4
