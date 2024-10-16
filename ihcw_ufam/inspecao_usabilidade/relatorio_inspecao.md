@@ -36,7 +36,7 @@ Na fase de discussão, a equipe levantou os principais problemas da plataforma d
 | Severidade           | Quantidade |
 |----------------------|------------|
 | Cosmetico              | 2          |
-| Pequeno                | 4          |
+| Pequeno                | 6          |
 | Grande             | 3          |
 | Catastrofico                | 5          |
 
