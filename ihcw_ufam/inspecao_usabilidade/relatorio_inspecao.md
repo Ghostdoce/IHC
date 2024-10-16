@@ -21,10 +21,15 @@ Na fase de discussão, a equipe levantou os principais problemas da plataforma d
 
 | Heurísticas Violadas                        | Quantidade |
 |---------------------------------------------|------------|
-| Visibilidade do status do sistema           | 3          |
-| Correspondência entre o sistema e o mundo   | 2          |
-| Controle e liberdade do usuário              | 4          |
-| Consistência e padrões                       | 5          |
-| Prevenção de erros                           | 2          |
-| Ajuda e documentação                         | 3          |
-
+|   H1       | 3          |
+|        H4   | 2          |
+|           H6    | 4          |
+|                  H2   | 5          |
+|                      H10     | 2          |
+|                            H10 | 3          |
+|                            H10 | 3          |
+|                            H5 | 3          |
+|                            H5 | 3          |
+|                            H3 | 3          |
+|                            H3 | 3          |
+ 
