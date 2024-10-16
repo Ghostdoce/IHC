@@ -8,5 +8,8 @@ https://github.com/Ghostdoce/IHC/blob/main/ihcw_ufam/inspecao_usabilidade/tabela
 
 ## Coleção
 Após a submissão dos relatórios de cada avaliador, foram realizadas comparações das inconsistências identificadas.
+https://github.com/Ghostdoce/IHC/blob/main/ihcw_ufam/inspecao_usabilidade/tabela_colecao.md
 
+## Discriminação 
+O avaliador do sistema com o grupo teve uma reunião de discussão. Com base nos resultados da avaliação do Twitch Site, é claro que há problemas reais de usabilidade do software. Houve também um consenso geral sobre o quão sérias as questões levantadas são – “Não há falsos positivos aqui”, como um avaliador colocou. Alguns dos problemas destacados pelos avaliadores incluem:
 
