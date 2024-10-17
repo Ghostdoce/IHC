@@ -30,7 +30,6 @@ Apresenta uma boa acessibilidade, longe de qualquer margem de erro, so algumas m
 
 # Segunda Etapa
 # User Experecience Questionnaire (UEQ)
-# Introdução
 
 # Tabela
 ### tabela - participante 1
