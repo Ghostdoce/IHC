@@ -46,5 +46,11 @@ Com base no perfil dos usuários-alvo, foram definidas algumas tarefas a serem a
 ## 4 Execução do Teste de Usabilidade
 	
 O teste foi realizado com os observadores explicando para cada usuário o procedimento a ser seguido, solicitando que realiza-se as tarefas propostas pelo observador  e que avisa-se quando concluir a  atividade. Para realizar a avaliação utilizamos o método Think Aloud (pensar em voz alta) que permite que o usuário expresse sua dificuldade e sua duvida em relação a tarefa proposta. Durante o tempo em que o usuário realiza as tarefas os observadores anotavam os comentários, duvidas e erros do usuário. Os teste foram realizados sem nenhuma ajuda dos Observados sobre como realizar as tarefas. Após finalizar foi aplicado o questionário UEQ para avalizar a UX da Twitch. 
-
+ 
 ## 5 Análise dos resultados
+
+Após realizarmos  os teste de usabilidade com a tecnica Think Aloud realizamos a coleta das metricas obtidas pelos observadores em duas tabelas.
+
+Tabelas com os dados quantitativos do teste para cada tarefa.
+
+
