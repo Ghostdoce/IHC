@@ -29,8 +29,7 @@ A Twitch é um serviço de streaming de vídeos ao-vivo que se concentra princip
 
 ## 3 Planejamento do teste de Usabilidade
 
-Com a finalidade de validar as funcionalidades disponíveis no aplicativo antes de ser
-lançado no mercado e sua aceitação por parte dos usuários finais, realiza-se um teste de usabilidade. 
+Com a finalidade de validar as funcionalidades disponíveis do site da Twitch vamos realizar esse teste de usabilidade com 4 perfis de usuarios onde 2 ja estão um pouco adaptados coom esse tipo de sistema e os outro não familiarizados com esses sistemas. Para realizar a avaliaçção ultilizamos o Think Aloud
 
 Com base no perfil dos usuários-alvo, foram definidas algumas tarefas a serem alcançados pelo usuário:
 
