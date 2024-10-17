@@ -57,3 +57,5 @@ Tabelas com os dados quantitativos do teste para cada tarefa.
 
 Tebela com os dados qualitativos do teste para cada participante.
 
+[Clique Aqui](https://github.com/Ghostdoce/IHC/blob/main/ihcw_ufam/teste_usabilidade/TabelaTesteCadaParticipante.md)
+
