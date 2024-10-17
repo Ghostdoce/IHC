@@ -33,14 +33,23 @@ Com a finalidade de validar as funcionalidades disponíveis no aplicativo antes 
 lançado no mercado e sua aceitação por parte dos usuários finais, realiza-se um teste de usabilidade. 
 
 Com base no perfil dos usuários-alvo, foram definidas algumas tarefas a serem alcançados pelo usuário:
+
 1.Realizar login ou cadastro na Twitch.
+
 2.Escolher catálogo de interesse.
+
 3.Remover categoria de vídeo.
+
 4.Escolher um canal de streamer para assistir.
+
 5.iniciar uma transmissão.
+
 6.Verificar as configurações do chat.
+
 7.Vincular conta com outros serviços.
+
 8.Habilitar ADF (Autenticação de dois fatores).
+
 9.Desabilitar conta da Twitch.
 
 ## 4 Execução do Teste de Usabilidade
