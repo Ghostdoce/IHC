@@ -59,3 +59,14 @@ Tebela com os dados qualitativos do teste para cada participante.
 
 [Clique Aqui](https://github.com/Ghostdoce/IHC/blob/main/ihcw_ufam/teste_usabilidade/TabelaTesteCadaParticipante.md)
 
+**Sugestão de Melhorias com base na avalição do teste de Usabilidade**
+
+Navegação mais intuitiva: Reorganize a estrutura de menus e botões para torná-los mais intuitivos. Por exemplo, ao criar categorias ou submenus mais claros, o usuário encontrará as funções necessárias com mais rapidez.
+
+Guia ou tutorial interativo: Fornecer uma opção de tutorial interativo ou dicas dentro do site pode ajudar novos usuários a se familiarizarem com a interface, principalmente se houver mudanças no design.
+
+Design consistente: Manter um padrão de design visual e comportamental em todas as páginas e seções do site. Certifique-se de que os ícones, botões e menus funcionem da mesma maneira em todo o sistema.
+
+Adequação ao contexto do usuário: Tornar a interface adaptável ao dispositivo e ao contexto de uso, priorizando as funções mais utilizadas em dispositivos móveis e otimizando o design para tablets e smartphones.
+
+
