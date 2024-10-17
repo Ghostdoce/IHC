@@ -53,4 +53,7 @@ Após realizarmos  os teste de usabilidade com a tecnica Think Aloud realizamos 
 
 Tabelas com os dados quantitativos do teste para cada tarefa.
 
+[Clique aqui](https://github.com/Ghostdoce/IHC/blob/main/ihcw_ufam/teste_usabilidade/TabelaTesteParaCadaTarefa..md)
+
+Tebela com os dados qualitativos do teste para cada participante.
 
