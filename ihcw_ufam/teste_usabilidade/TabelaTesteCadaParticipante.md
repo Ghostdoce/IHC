@@ -1,37 +1,37 @@
 | Participante 1| 
 |ID            | Descrição do Problema        | Fator de Usabilidade |
 |--------------|------------------------------|----------------------|
-|    1          |                              |                      |
-|     2         |                              |                      |
-|      3        |                              |                      |
-|       4       |                              |                      |
-|        5      |                              |                      |
-|         6     |                              |                      |
-|          7    |                              |                      |
-|           8   |                              |                      |
-|            9  |                              |                      |
+|    1          |Problema em criar a senha pois algumas palavras estavão em inglês                              |                      |
+|     2         | sem dificuldade                             |                      |
+|      3        |  não conseguiu encontrar a opção                           |                      |
+|       4       |  sem dificuldade                            |                      |
+|        5      | sistema muito complexo                             |                      |
+|         6     |  sem dificuldade                            |                      |
+|          7    |   sistema muito complexo                           |                      |
+|           8   |   sem dificuldade                           |                      |
+|            9  |   sem dificuldade                           |                      |
 
 
 | Participante 2| 
 |ID            | Descrição do Problema        | Fator de Usabilidade |
 |--------------|------------------------------|----------------------|
-|    1          |                              |                      |
-|     2         |                              |                      |
-|      3        |                              |                      |
-|       4       |                              |                      |
-|        5      |                              |                      |
-|         6     |                              |                      |
-|          7    |                              |                      |
-|           8   |                              |                      |
-|            9  |                              |                      |
+|    1          | Dificuldade devido a interpretação do sistema                          |                      |
+|     2         |  não encontrou a opção e desistio da tarefa                            |                      |
+|      3        |   não encontrou a opção e desistio da tarefa                            |                      |
+|       4       |   sem problema                           |                      |
+|        5      |  sistema muito complexo                            |                      |
+|         6     |  não encontrou a opção e desistio da tarefa                            |                      |
+|          7    |   sistema muito complexo                           |                      |
+|           8   |   dificuldade em emcontrar o menu de configuração                          |                      |
+|            9  |   sem problema                       |                      |
 
 
 | Participante 3| 
 |ID            | Descrição do Problema        | Fator de Usabilidade |
 |--------------|------------------------------|----------------------|
-|    1          |    não completou a tarefa                          |                      |
+|    1          |    não encontrou a opção e desistio da tarefa                       |                      |
 |     2         |   sem dificuldade                              |                      |
-|      3        | não identificou o local                             |                      |
+|      3        | não identificou o local para realizar a tarefa                           |                      |
 |       4       |  sem dificuldade                             |                      |
 |        5      |  sistema muito complexo                            |                      |
 |         6     |  sem dificuldade                             |                      |
